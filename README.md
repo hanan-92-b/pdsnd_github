@@ -5,7 +5,7 @@
 
 # Project Title*
 
-Bikeshare project
+Udacity bikeshare project.
 
 # Description:
 
@@ -26,3 +26,5 @@ In this project, we will make use of Python to explore data related to bike shar
 
 * ProgrammingKnowledge https://www.youtube.com/watch?v=4qw5atfs_As
 * Udacity https://classroom.udacity.com/nanodegrees/nd104-mena-connect/parts/435cb8e0-77d0-4b60-9940-bc537b9463f6/modules/f00315b4-d56e-4171-a4d1-af3c2fafc813/lessons/ee7d089a-4a92-4e5d-96d2-bb256fae28e9/concepts/9062ec66-f95c-4637-91a3-f24f16b3d256
+
+ :sparkles: :octocat:
